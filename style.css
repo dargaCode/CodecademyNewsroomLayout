@@ -54,14 +54,14 @@ a {
 .main .column-news {
   color: black;
   background-color: white;
-  width: calc((100% / 3) * 2);
+  width: calc((100% / 12) * 8);
   float: left;
 }
 
 .main .column-events {
   display: inline-block;
   background-color: black;
-  width: calc(100% / 3);
+  width: calc((100% / 12) * 4);
 }
 
 /*BANNER*/
