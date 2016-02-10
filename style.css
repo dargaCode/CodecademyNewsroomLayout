@@ -46,6 +46,24 @@ a {
 
 /*MAIN*/
 
+.main .column-news,
+.main .column-events {
+  padding: 50px 40px;
+}
+
+.main .column-news {
+  color: black;
+  background-color: white;
+  width: calc((100% / 3) * 2);
+  float: left;
+}
+
+.main .column-events {
+  display: inline-block;
+  background-color: black;
+  width: calc(100% / 3);
+}
+
 /*BANNER*/
 
 .banner {
