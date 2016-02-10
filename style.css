@@ -47,6 +47,14 @@ a {
 
 /*BANNER*/
 
+.banner {
+  padding: 45px 0;
+}
+
+.banner img {
+  width: 100%;
+}
+
 /*FOOTER*/
 
 .footer {
