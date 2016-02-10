@@ -49,4 +49,27 @@ a {
 
 /*FOOTER*/
 
+.footer {
+  background-color: black;
+  height: 110px;
+  padding-top: 40px;
+}
+
+.footer ul {
+  list-style: none;
+}
+
+.footer ul li {
+  display: inline;
+}
+
+.footer ul li a {
+  font-size: 14px;
+  margin-right: 40px;
+}
+
+.footer ul li a:hover {
+  text-decoration: underline;
+}
+
 /*MEDIA QUERIES*/
