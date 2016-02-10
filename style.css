@@ -70,12 +70,12 @@ a {
 .main .column-news {
   color: black;
   background-color: white;
-  width: calc((100% / 12) * 8);
+  width: calc(100% - 350px);
 }
 
 .main .column-events {
   background-color: black;
-  width: calc((100% / 12) * 4);
+  width: 350px;
 }
 
 .main p {
