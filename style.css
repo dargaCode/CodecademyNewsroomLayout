@@ -59,6 +59,7 @@ a {
 
 .main .column-news,
 .main .column-events {
+  display: inline-block;
   padding: 40px 40px;
 }
 
@@ -70,7 +71,6 @@ a {
 }
 
 .main .column-events {
-  display: inline-block;
   background-color: black;
   width: calc((100% / 12) * 4);
 }
