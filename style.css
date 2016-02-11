@@ -64,6 +64,32 @@ a {
 
 /*NAV*/
 
+.nav {
+  background-color: #152230;
+  font-size: 0; /*remove spaces between*/
+}
+
+.nav ul li {
+  display: inline;
+}
+
+.nav ul li a {
+  height: 40px;
+  line-height: 40px;
+  font-size: 14px;
+  display: inline-block;
+  padding: 0 22px;
+}
+
+.nav ul li .active,
+.nav ul li .active:hover{
+  background-color: #1A77FF;
+}
+
+.nav ul li a:hover {
+  background-color: #155cc3;
+}
+
 /*JUMBOTRON*/
 
 .jumbotron {
