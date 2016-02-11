@@ -7,6 +7,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   color: white;
+  font-weight: 300;
 }
 
 *,
@@ -16,6 +17,7 @@ body {
   padding: 0;
   box-sizing: inherit;
   color: inherit;
+  font-weight: inherit;
 }
 
 .container {
@@ -28,7 +30,6 @@ h1,
 h3,
 h4 {
   font-family: "Montserrat", sans-serif;
-  font-weight: 300;
 }
 
 h1 {
