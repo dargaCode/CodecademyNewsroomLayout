@@ -310,6 +310,21 @@ a {
 
   /*HEADER*/
 
+  .header .logo {
+    float: none;
+    margin: 15px auto;
+  }
+
+  .header form {
+    float: none;
+    width: 330px;
+    margin: 20px auto;
+  }
+
+  .header form input {
+    text-align: center;
+  }
+
   /*NAV*/
 
   .nav ul li {
