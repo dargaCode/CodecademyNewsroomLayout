@@ -262,6 +262,10 @@ a {
 
   /*GLOBAL*/
 
+  .container {
+    padding: 0 40px;
+  }
+
   /*HEADER*/
 
   /*NAV*/
@@ -280,6 +284,10 @@ a {
 
   /*GLOBAL*/
 
+  .container {
+    padding: 0 30px;
+  }
+
   /*HEADER*/
 
   /*NAV*/
@@ -297,6 +305,10 @@ a {
 @media (max-width: 500px) {
 
   /*GLOBAL*/
+
+  .container {
+    padding: 0 15px;
+  }
 
   /*HEADER*/
 
