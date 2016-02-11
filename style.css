@@ -63,6 +63,27 @@ a {
 
 /*HEADER*/
 
+.header {
+  background-color: black;
+  padding: 15px 0;
+}
+
+.header .logo {
+  font-size: 0;
+  display: block;
+  float: left;
+  width: 225px;
+  height: 50px;
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/newsroom/logo.svg) no-repeat;
+}
+
+.header .container:after {
+  /*Clear-fix*/
+  content: "";
+  display: block;
+  clear: both;
+}
+
 /*NAV*/
 
 .nav {
