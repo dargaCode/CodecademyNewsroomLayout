@@ -240,6 +240,24 @@ a {
 
 /*MEDIA QUERIES*/
 
+@media (max-width: 1200px) {
+
+  /*GLOBAL*/
+
+  /*HEADER*/
+
+  /*NAV*/
+
+  /*JUMBOTRON*/
+
+  /*MAIN*/
+
+  /*BANNER*/
+
+  /*FOOTER*/
+
+}
+
 @media (max-width: 992px) {
 
   /*GLOBAL*/
