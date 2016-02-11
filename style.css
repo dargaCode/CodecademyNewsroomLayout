@@ -370,6 +370,12 @@ a {
 
   /*HEADER*/
 
+  .header form input,
+  .header form button {
+    display: block;
+    margin: 5px auto;
+  }
+
   /*NAV*/
 
   .nav ul li {
