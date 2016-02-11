@@ -248,6 +248,10 @@ a {
 
   /*NAV*/
 
+  .nav ul li a {
+    padding: 0 20px;
+  }
+
   /*JUMBOTRON*/
 
   /*MAIN*/
@@ -269,6 +273,10 @@ a {
   /*HEADER*/
 
   /*NAV*/
+
+  .nav ul li a {
+    padding: 0 12px;
+  }
 
   /*JUMBOTRON*/
 
@@ -297,6 +305,15 @@ a {
   /*HEADER*/
 
   /*NAV*/
+
+  .nav ul li {
+    display: block;
+  }
+
+  .nav ul li a {
+    width: 100%;
+    text-align: center;
+  }
 
   /*JUMBOTRON*/
 
