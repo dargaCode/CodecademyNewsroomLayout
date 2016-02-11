@@ -317,7 +317,8 @@ a {
 
   .header form {
     float: none;
-    width: 330px;
+    max-width: 330px;
+    width: 100%;
     margin: 20px auto;
   }
 
