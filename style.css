@@ -80,7 +80,7 @@ a {
 .header form {
   float: right;
   display: block;
-  margin-top: 7px;
+  margin-top: 6px;
   padding: 0;
 }
 
@@ -96,11 +96,13 @@ a {
 
 .header form button {
   font-size: 14px;
+  line-height: 14px;
   background-color: transparent;
+  display: inline-block;
   border: none;
   border-bottom: 1px solid white;
-  margin: 0;
-  padding: 5px 10px;
+  height: 27px;
+  width: 65px;
 }
 
 .header form input:hover,
