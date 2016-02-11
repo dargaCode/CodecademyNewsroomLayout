@@ -328,6 +328,8 @@ a {
   /*NAV*/
 
   .nav ul li a {
+    display: inline-block;
+    width: 25%;
     text-align: center;
   }
 
