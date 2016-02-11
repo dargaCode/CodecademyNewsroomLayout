@@ -95,7 +95,7 @@ a {
 .main .column-news,
 .main .column-events {
   display: inline-block;
-  padding: 40px 40px;
+  padding: 40px;
 }
 
 .main .column-news {
