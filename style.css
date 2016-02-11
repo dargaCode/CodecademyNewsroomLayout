@@ -274,6 +274,12 @@ a {
 
   /*MAIN*/
 
+  .main .column-news,
+  .main .column-events{
+    display: block;
+    width: 100%;
+  }
+
   /*BANNER*/
 
   /*FOOTER*/
