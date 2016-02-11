@@ -66,6 +66,26 @@ a {
 
 /*JUMBOTRON*/
 
+.jumbotron {
+  height: 500px;
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/newsroom/bass-bg.jpg) no-repeat center / cover;
+  margin-bottom: 50px;
+  padding-top: 40px;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  max-width: 400px;
+}
+
+.jumbotron a {
+  border-bottom: 5px solid;
+}
+
+.jumbotron a:hover {
+  border-color: #1A77FF;
+}
+
 /*MAIN*/
 
 .main .container {
