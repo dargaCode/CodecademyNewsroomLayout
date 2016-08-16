@@ -1,4 +1,4 @@
-# Bolt Network Page Layout
+# Newsroom Layout
 <strong>Language: HTML/CSS</strong>
 
 Hooray it’s my last project for this Codecademy class! I was pretty pleased what a nice ramp up the 15 of them provided.
