@@ -7,7 +7,7 @@ I underestimated the difficulty of this one; there were some interesting challen
 
 At some point I’ll dig more into Bootstrap as these projects intended, but for now I’m glad I got a better grasp on "vanilla" CSS.
 
-Here's <a href="https://s3.amazonaws.com/codecademy-content/projects/newsroom/index.html">Codecademy's example layout</a> for this project.
+I matched another<a href="https://s3.amazonaws.com/codecademy-content/projects/newsroom/index.html">Codecademy design</a> for this project.
 
 **<a href="http://dargacode.github.io/CodecademyNewsroomLayout/">Live Webpage</a>**
 
